@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P47_ConstructorChallenge {
     private String name ;
     private double creditLimit;
