@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P13_AreaCalculator {
     public static void main(String[] args) {
         System.out.println(area(-2));

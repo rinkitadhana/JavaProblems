@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P16_PlayingPussy {
     public static void main(String[] args) {
         System.out.println( isCatPlaying(false,45));

@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P38_FlourPackProblem {
     public static void main(String[] args) {
         System.out.println(canPack(2,0,10));

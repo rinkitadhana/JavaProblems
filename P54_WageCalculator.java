@@ -1,5 +1,3 @@
-package section.Projects;
-
 import com.sun.jdi.connect.IllegalConnectorArgumentsException;
 // setting some methods to privates makes less coupling and make code more readable
 

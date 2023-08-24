@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P24_DigitSumChallenge {
     public static void main(String[] args) {
         System.out.println(sumDigits(2));

@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P46_AccountRunner {
     public static void main(String[] args) {
 

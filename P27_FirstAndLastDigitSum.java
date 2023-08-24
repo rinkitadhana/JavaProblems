@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P27_FirstAndLastDigitSum {
     public static void main(String[] args) {
         System.out.println(sumFirstAndLastDigit(2242));

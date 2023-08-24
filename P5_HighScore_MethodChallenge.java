@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P5_HighScore_MethodChallenge {
     public static void main(String[] args) {
         displayHighScorePosition("Rinkit",calculateHighScorePosition(25));

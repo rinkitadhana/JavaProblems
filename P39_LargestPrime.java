@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P39_LargestPrime {
     public static void main(String[] args) {
 

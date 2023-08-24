@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P21_Sum3and5Challenge {
     public static void main(String[] args) {
         int countOfMatches =0;

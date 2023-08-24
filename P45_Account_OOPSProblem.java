@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P45_Account_OOPSProblem {
     private String number;
     private double balance;

@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P26_PalindromeNumber {
     public static void main(String[] args) {
         System.out.println(isPalindrome(121));

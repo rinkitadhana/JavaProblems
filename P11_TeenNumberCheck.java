@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P11_TeenNumberCheck {
     public static void main(String[] args) {
         System.out.println(hasTeen(2,19,99));

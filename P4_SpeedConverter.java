@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P4_SpeedConverter {
     public static void main(String[] args) {
 

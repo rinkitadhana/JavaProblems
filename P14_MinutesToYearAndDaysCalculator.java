@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P14_MinutesToYearAndDaysCalculator {
     public static void main(String[] args) {
       printYearsAndDays(5363673);

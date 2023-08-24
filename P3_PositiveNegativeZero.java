@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P3_PositiveNegativeZero {
     public static void main(String[] args) {
         checkNumber(69);

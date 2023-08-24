@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P9_decimalComparator {
     public static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(2.2322,2.2223));

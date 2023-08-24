@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P17_NATO_SwitchChallenge {
     public static void main(String[] args) {
         char charValue = 'A';

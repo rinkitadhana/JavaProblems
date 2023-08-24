@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P33_PerfectNumber {
     public static void main(String[] args) {
         System.out.println(isPerfectNumber(6));

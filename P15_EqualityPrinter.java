@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P15_EqualityPrinter {
     public static void main(String[] args) {
         printEqual(1,-1,3);

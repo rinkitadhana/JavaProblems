@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P31_AllFactor {
     public static void main(String[] args) {
         printFactors(12);

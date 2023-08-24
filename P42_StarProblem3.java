@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P42_StarProblem3 {
     public static void main(String[] args){
         System.out.println("Flip to left side!");

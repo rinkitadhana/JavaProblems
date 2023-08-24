@@ -1,4 +1,3 @@
-package com.RinkitAdhana;
 import java.util.Scanner;
 public class P2_Percentage {
     public static void main(String[] args) {

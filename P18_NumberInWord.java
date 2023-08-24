@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P18_NumberInWord {
     public static void main(String[] args) {
         printNumberInWord(2);

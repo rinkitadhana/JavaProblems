@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P29_SharedDigit {
     public static void main(String[] args) {
         System.out.println(hasSharedDigit(21,33));

@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P20_PrimeNumberChallenge {
     public static void main(String[] args) {
      checkPrime(3);

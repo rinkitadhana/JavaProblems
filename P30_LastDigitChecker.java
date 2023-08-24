@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P30_LastDigitChecker {
     public static void main(String[] args) {
         System.out.println(hasSameLastDigit(21,12,32));

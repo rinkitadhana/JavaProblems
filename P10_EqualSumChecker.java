@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P10_EqualSumChecker {
     public static void main(String[] args) {
         System.out.println(hasEqualSum(3,3,6));

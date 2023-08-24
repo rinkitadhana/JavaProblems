@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P25_SquareRootOfQuadraticEquation {
     public static void main(String[] args) {
         rootsOfQuadraticEquation(2,3,4);

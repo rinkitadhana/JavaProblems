@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P32_GreatestCommonDivisor {
     public static void main(String[] args) {
         System.out.println(getGreatestCommonDivisor(132,1573));

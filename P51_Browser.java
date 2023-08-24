@@ -1,5 +1,3 @@
-package section.Projects;
-
 public class P51_Browser {
     public void navigation(String address){
         String ip =  findIpAddress(address);

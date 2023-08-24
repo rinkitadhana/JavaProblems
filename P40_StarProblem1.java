@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P40_StarProblem1 {
     public static void main(String[] args){
         System.out.println("Right angle triangle!");

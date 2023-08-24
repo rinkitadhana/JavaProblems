@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class p12_FeetToCentimeter_OverloadedMethodChallenge {
     public static void main(String[] args) {
         System.out.println(convertToCentimeter(6,2));

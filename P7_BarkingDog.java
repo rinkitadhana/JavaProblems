@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P7_BarkingDog {
     public static void main(String[] args) {
         System.out.println(shouldWakeUp(true, 4));

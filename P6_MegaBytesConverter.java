@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P6_MegaBytesConverter {
     public static void main(String[] args) {
         printMegaBytesAndKiloBytes(1500);

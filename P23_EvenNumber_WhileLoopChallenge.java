@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P23_EvenNumber_WhileLoopChallenge {
     public static void main(String[] args) {
         int i = 5;

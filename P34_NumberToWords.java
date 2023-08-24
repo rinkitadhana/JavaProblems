@@ -1,6 +1,3 @@
-package com.RinkitAdhana;
-// Watch
-
 public class P34_NumberToWords {
     public static void main(String[] args) {
 

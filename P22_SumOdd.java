@@ -1,5 +1,3 @@
-package com.RinkitAdhana;
-
 public class P22_SumOdd {
     public static void main(String[] args) {
         System.out.println(sumOdd(1,44));
